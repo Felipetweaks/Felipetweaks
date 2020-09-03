@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Felipe Jabur - aka [Felipe.#8581] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 - 🔭 I’m currently working on a [Automation Tweaks for Gaming](https://open.spotify.com/user/12123532196)
 - 👯 I’m looking to collaborate with tweaking communities
 
@@ -34,7 +31,7 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 ---
 
-### 📕 Interesting guides
+### 📕 Interesting reads
 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)

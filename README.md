@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 
 ## I'm a gamer
 
-- 🔭 I’m currently working on a [Automation Tweaks for Gaming][website]!
+- 🔭 I’m currently working on a [Automation Tweaks for Gaming](https://open.spotify.com/user/12123532196)
 - 👯 I’m looking to collaborate with tweaking communities
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Felipe Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)
 
 <br />
----
 
 ### 📺 Interesting videos
 

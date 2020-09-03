@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a [Tweaks for Gaming.bat](https://github.com/Felipe8581/Tweaks-for-Gaming.bat)
 - 👯 I’m looking to collaborate with tweaking communities
-- 💬 Join RevisionOS community discord if you want talk with me
+- 💬 Join [RevisionOS community discord](https://discord.com/invite/962y4pU) if you want talk with me
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)

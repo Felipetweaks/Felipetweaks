@@ -1,22 +1,8 @@
-### Hi there 👋
-
-<!--
-**Felipe8581/Felipe8581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Windows tweaks for gaming...
-- 🌱 I’m currently learning Batch language...
-- 👯 I’m looking to collaborate on people gaming experience...
-- 🤔 I’m looking for help with free tweaking content...
-- 💬 Ask me about tweaks...
-- 📫 How to reach me: Revision discord...
-- ⚡ Fun fact: I am retired pro gamer and played for over 20 years already...
--->
 ### Hi there, I'm Felipe Jabur - aka [Felipe.#8581] 👋
 
 - 🔭 I’m currently working on a [Automation Tweaks for Gaming](https://open.spotify.com/user/12123532196)
 - 👯 I’m looking to collaborate with tweaking communities
+- 💬 Join RevisionOS community discord if you want talk with me
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)

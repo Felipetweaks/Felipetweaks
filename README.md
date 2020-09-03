@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe Jabur - aka [Felipe.#8581] 👋
 
-- 🔭 I’m currently working on a [Tweaks for Gaming.bat](https://open.spotify.com/user/12123532196)
+- 🔭 I’m currently working on a [Tweaks for Gaming.bat](https://github.com/Felipe8581/Tweaks-for-Gaming.bat)
 - 👯 I’m looking to collaborate with tweaking communities
 - 💬 Join RevisionOS community discord if you want talk with me
 

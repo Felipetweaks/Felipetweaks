@@ -1,6 +1,6 @@
-### Hi there, I'm Felipe Jabur - aka [Felipe.#8581] 👋
+### Hi there, I'm Felipe Jabur - aka [Felipe#5555] on Discord 👋
 
-- 🔭 I’m currently working on [Tweaking Programs](https://github.com/Felipe8581/GamingTweaks)
+- 🔭 I’m currently working on [Tweaking Programs](https://github.com/Felipetweaks/FelipeTool)
 - 👯 I’m looking to collaborate with tweaking communities
 - 💬 Join [My community discord](https://discord.gg/3NWnXjyPhx)
 - 💬 Join [RevisionOS community discord](https://discord.com/invite/962y4pU)
@@ -23,7 +23,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)
 - [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
-- [Danske's Windows Tweaking Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
-- [n1kobg's Blog](http://n1kobg.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 ---

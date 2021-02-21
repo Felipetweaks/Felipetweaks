@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on [Tweaking Programs](https://github.com/Felipetweaks/FelipeTool)
 - 👯 I’m looking to collaborate with tweaking communities
-- 💬 Join [My community discord](https://discord.gg/3NWnXjyPhx)
-- 💬 Join [RevisionOS community discord](https://discord.com/invite/962y4pU)
+- 💬 Join [My discord](https://discord.gg/F6WBqRHqgs)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)

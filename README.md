@@ -22,5 +22,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)
 - [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
+- [Bored's Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
+- [Timecard's Researchs](https://github.com/djdallmann/GamingPCSetup/)
+- [Sieger's Handbook](https://github.com/sieger/handbook/)
 <!-- BLOG-POST-LIST:END -->
 ---

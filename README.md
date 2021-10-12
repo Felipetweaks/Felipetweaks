@@ -1,12 +1,8 @@
 ### Hi there, I'm [Felipe#5555] on Discord 👋
 
-- 🔭 I’m currently working on this ->> [Tweaking Program](https://github.com/Felipetweaks/FelipeTool)
+- 🔭 I’m currently working on this ->> Tweaking PC for Gaming Program
 - 👯 I’m looking to collaborate with tweaking communities
-- 💬 Join [My discord](https://discord.gg/F6WBqRHqgs)
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12123532196)
-
+- 💬 Join [My discord](https://dsc.gg/felipe)
 
 ### 📺 Interesting videos
 
